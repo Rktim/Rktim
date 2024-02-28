@@ -35,16 +35,16 @@ entry_b.pack()
 output_label = tk.Label(root, text="Result: ", bg='purple', font='Ariel')
 output_label.pack()
 
-button = tk.Button(root, text="Add", command=lambda: add(int(entry_a.get()), int(entry_b.get())), bg='orange')
+button = tk.Button(root, text=" + ", command=lambda: add(int(entry_a.get()), int(entry_b.get())), bg='orange')
 button.pack()
 
-button = tk.Button(root, text="Subtract", command=lambda: sub(int(entry_a.get()), int(entry_b.get())), bg='green')
+button = tk.Button(root, text=" - ", command=lambda: sub(int(entry_a.get()), int(entry_b.get())), bg='green')
 button.pack()
 
-button = tk.Button(root, text="Multiply", command=lambda: multi(int(entry_a.get()), int(entry_b.get())), bg='blue')
+button = tk.Button(root, text=" x ", command=lambda: multi(int(entry_a.get()), int(entry_b.get())), bg='blue')
 button.pack()
 
-button = tk.Button(root, text="Divide", command=lambda: div(int(entry_a.get()), int(entry_b.get())), bg='yellow')
+button = tk.Button(root, text=" / ", command=lambda: div(int(entry_a.get()), int(entry_b.get())), bg='yellow')
 button.pack()
 
 root.mainloop()
