@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI & ML Projecta.
 - 📫 To contact me : raktmxx@gmail.com
 - 😄 Pronouns: he/him
-  :) i love to  do coding
+  :) i love coding and building fun projects.
   
 <!---
 Rktim/Rktim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
