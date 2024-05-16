@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raktim Kalita</h1>
 <h3 align="center">A passionate frontend developer from Nalbari, Assam ,India</h3>
 
-- 🌱 I’m currently learning **Machine learning,Deep learning, Rust,Gen-AI**
+- 🌱 I’m currently learning **Machine learning, Deep learning, Rust, Gen-AI**
 
 - 👯 I’m looking to collaborate on **AI & ML Projects**
 
