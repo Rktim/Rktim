@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **raktmxx@gamil.com**
 
-- ⚡ Fun fact **I love to learn, sometime I have scratch my head a lot .**
+- ⚡ Fun fact **I love to learn, sometime I have to scratch my head a lot .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
