@@ -22,6 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rktim&show_icons=true&locale=en&layout=compact" alt="rktim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rktim&show_icons=true&locale=en" alt="rktim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rktim&" alt="rktim" /></p>
