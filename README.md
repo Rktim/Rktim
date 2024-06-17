@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Raktim Kalita<br>An enthusiatic aspiring developer from Nalbari, Assam ,India<br>
 
-🌱 I’m currently learning Machine learning, Deep learning, Rust, R, Gen-AI<br><br>👯 I’m looking to collaborate on AI & ML Projects<br><br>💬 Ask me about Python , Machine learning<br><br>📫 How to reach me raktmxx@gamil.com<br><br>⚡ Fun fact I love to learn, sometime I have to scratch my head a lot .
+🌱 I’m currently learning Data Science , Machine learning, Deep learning, Rust, R, Gen-AI<br><br>👯 I’m looking to collaborate on AI & ML Projects<br><br>💬 Ask me about Python , Machine learning<br><br>📫 How to reach me raktmxx@gamil.com<br><br>⚡ Fun fact I love to learn, sometime I have to scratch my head a lot .
 
 
 ## 🌐 Socials:
