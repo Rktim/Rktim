@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, Myself Raktim Kalita<br>.<br>I'm from Nalbari , Assam , India.<br><br>🔰 I'm currently learning Data Science , Machine Learning ,Deep Learning, Gen-AI , Rust, R.<br><br>😊m<br><br>✉️ You can mail me :<br>raktmxx@gmail.com<br><br>⚡ I love to learn and i love to build stuff by myself (DIY) . <br>   And I'm also a late night coder. 👋<br>
+👋 Hi, Myself Raktim Kalita<br>.<br>I'm from Nalbari , Assam , India.<br><br>🔰 I'm currently learning Data Science , Machine Learning ,Deep Learning, Gen-AI , Rust, R.<br><br>😊<br><br>✉️ You can mail me :<br>raktmxx@gmail.com<br><br>⚡ I love to learn and i love to build stuff by myself (DIY) . <br>   And I'm also a late night coder. 👋<br>
 
 
 ## 🌐 Socials:
