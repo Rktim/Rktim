@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, Myself Raktim Kalita.<br> I'm an AI & ML Enthusiast. And I'm from Nalbari, Assam ,India.<br><br>ML Ops and Infrastructure Lead @cudabit<<br>⚡ I love to learn and I love to build stuff by myself (DIY) . <br>And I'm also a late night coder. 👋<br>
+👋 Hi, Myself Raktim Kalita.<br> I'm an AI & ML Enthusiast. And I'm from Nalbari, Assam ,India.<br><br>ML Ops and Infrastructure Lead CudaBit<br><br>⚡ I love to learn and I love to build stuff by myself (DIY) . <br>And I'm also a late night coder. 👋<br>
 <br>✉️ You can mail me :<br>rraktimkalita@cudabit.live <br>
 
 
