@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, Myself Raktim Kalita.<br> I'm an AI & ML Enthusiast. And I'm from Nalbari, Assam ,India.<br><br>✉️ You can mail me :<br>raktmxx@gmail.com , raktimkalita.ai@gmail.com , raktimkalita.ai@cudabit.live
+👋 Hi, Myself Raktim Kalita.<br> I'm an AI & ML Enthusiast. And I'm from Nalbari, Assam ,India.<br><br>✉️ You can mail me :<br>raktimkalita.ai@gmail.com ,raktimkalita@cudabit.live
 <br><br>⚡ I love to learn and i love to build stuff by myself (DIY) . <br>   And I'm also a late night coder. 👋<br>
 
 
