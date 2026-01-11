@@ -7,14 +7,15 @@
 
 
 # 💫 About Me:
+
+<p align="left">
+  <img src="assets/debug_dog.gif.gif" width="178" alt="Locked-in debugging mode" />
+</p>
+
 <br>🤖 Exploring the world of Agentic AI and Model Context Protocol (MCP)<br><br>🛠️ Passionate about building scalable ML pipelines, cloud-native infra, and automation<br><br>🎯 Current Focus<br>🔍 Researching intelligent agents and how they interact in modular AI ecosystems<br><br>📦 Architecting reliable infrastructure for deploying and scaling ML systems<br><br>🎉 Fun Facts<br>🌍 From Nalbari, Assam, India<br><br>🔧 Love to build fun projects, DIY electronics, and automate the boring stuff<br><br>🌙 Late-night coder — powered by caffeine and curiosity<br><br>🎧 Catch me #VibeCoding with lo-fi beats and wild ideas<br><br>📬 You can reach me: raktimkalita.ai@gmail.com <br> <br>  Portfolio : [Raktim](https://rktim.github.io/portfolio/)
 
 
----
-<p align="right">
-  <img src="assets/debug_dog.gif.gif" width="120" alt="Locked-in debugging mode" />
-</p>
----
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discordapp.com/channels/1160578289723781251/1160578290185162773) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/r_k_tim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raktim-kalita-569abb2bb/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@raktmxx)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/rokoyim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raktimkalita.ai@gmail.com)
