@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/debug_dog.gif.gif" width="420" alt="Locked-in debugging mode" />
+  <img src="assets/debug_dog.gif.gif" width="120" alt="Locked-in debugging mode" />
 </p>
 
 # 💫 About Me:
