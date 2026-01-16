@@ -12,7 +12,7 @@
   <img src="assets/debug_dog.gif.gif" width="178" alt="Locked-in debugging mode" />
 </p>
 
-<br>🤖 Exploring the world of Agentic AI and Model Context Protocol (MCP)<br><br>🛠️ Passionate about building scalable ML pipelines, cloud-native infra, and automation<br><br>🎯 Current Focus<br>🔍 Researching intelligent agents and how they interact in modular AI ecosystems<br><br>📦 Architecting reliable infrastructure for deploying and scaling ML systems<br><br>🌍 From Nalbari, Assam, India<br><br>🔧 Love to build fun projects, DIY electronics, and automate the boring stuff<br><br>🌙 Late-night coder — powered by caffeine and curiosity<br><br>🎧 Catch me #VibeCoding with lo-fi beats and wild ideas<br><br>📬 You can reach me: raktimkalita.ai@gmail.com <br> <br>  Portfolio : [Raktim](https://rktim.github.io/portfolio/)
+<br>🤖 Exploring the world of Agentic AI and Model Context Protocol (MCP)<br><br>🛠️ Passionate about building scalable ML pipelines, cloud-native infra, and automation<br><br>🎯 Current Focus<br>🔍 Researching intelligent agents and how they interact in modular AI ecosystems<br><br>📦 Architecting reliable infrastructure for deploying and scaling ML systems<br><br>🌍 From Nalbari, Assam, India<br><br>🔧 Love to build fun projects, DIY electronics, and automate the boring stuff<br><br>🌙 Late-night coder — powered by caffeine and curiosity<br><br>🎧 Catch me #VibeCoding with lo-fi beats and wild ideas<br> <br>Portfolio : [Raktim](https://rktim.github.io/portfolio/)
 
 
 
