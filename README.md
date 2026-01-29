@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=Raktim&fontSize=88&fontColor=00ff7f&desc=BOOTING%20AGENTIC%20INTELLIGENCE%20STACK...&descSize=20&descAlign=50&descAlignY=82&animation=fadeIn" width="100%" alt="Rktim Matrix Header" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+Agentic+Systems+Builder;Engineer+%7C+Enthusiast+%7C+Explorer+%7C+Late-Night+Coder;Healthcare+Automation+Pipeline+Architect;Deploying+Models+into+Production+Reality;System+Status:+ONLINE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+Agentic+Systems+Builder;Engineer+%7C+Enthusiast+%7C+Explorer+%7C+Late-Night+Coder;Deploying+Models+into+Production+Reality;System+Status:+ONLINE" alt="Typing SVG" />
 </div>
 
 
