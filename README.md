@@ -24,7 +24,6 @@
 
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
 
 ### 🤖 AI / LLM / Agentic AI
