@@ -6,7 +6,7 @@
 # 💫 About Me:
 
 <p align="left">
-  <img src="assets/debug_dog.gif.gif" width="178" alt="Locked-in debugging mode" />
+  <img src="assets/debug_dog.gif" width="178" alt="Locked-in debugging mode" />
 </p>
 
 <br>🛠️ Building intelligent systems that learn, adapt, and solve real-world problems.<br><br>🎯 Current Focus<br>🔍 Agentic systems and how they interact in modular AI ecosystems<br><br>🌍 From Nalbari, Assam, India<br><br>🔧 Love to build fun projects, DIY electronics, and automate the boring stuff<br><br>🌙 Late-night coder — powered by caffeine and curiosity<br> <br>Portfolio : [Raktim](https://rktim.github.io/portfolio/)
